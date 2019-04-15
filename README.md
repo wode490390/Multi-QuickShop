@@ -1,10 +1,10 @@
-# Nukkit-QuickShop
-QuickShop for Nukkit
+# Multi-QuickShop
+Multi-QuickShop for Nukkit
 
 ## How to use?
 
 - **Install plugin**
-  1. Download 'QuickShop' plugin.
+  1. Download 'Multi-QuickShop' plugin.
   2. Put the plugin in the "plugins" folder.
   3. Restart your server.
 - **Create Shop**
@@ -12,7 +12,7 @@ QuickShop for Nukkit
   2. Put a sign on the chest
   3. Use the items you want to sell and click on the chest
   4. Enter the price.
-  
+
 ## Config:(No changes are recommended)
 ```
 title: '&l&eQuick&6Shop &r&c» &a'
@@ -24,7 +24,7 @@ title: '&l&eQuick&6Shop &r&c» &a'
 ## Command:
 |    Command    |        Args      |          Describe              |                     Permission                     |
 |:----------------:|:--------------|:------------------------------:|:--------------------------------------------------:|
-|    qs        |      [subcmd] [args]      |         QuickShop          |        All         |
+|    mqs        |      [subcmd] [args]      |         Multi-QuickShop          |        All         |
 
 --------
 
